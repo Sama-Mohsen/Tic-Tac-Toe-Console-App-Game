@@ -1,4 +1,3 @@
-# Tic-Tac-Toe-Console-App-Game
 ## X/O Game - Tic Tac Toe with Sound Effects
 
 ### Overview
